@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/vitoriapinheiro/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapinheiro&layout=compact)](https://github.com/vitoriapinheiro/github-readme-stats)
+
 
 <!--
 **vitoriapinheiro/vitoriapinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
