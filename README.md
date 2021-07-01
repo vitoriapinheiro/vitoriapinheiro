@@ -2,7 +2,7 @@
 
 I'm Vitória, a 19-year-old computer engineering student at CIn-UFPE.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)\n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/vitoriapinheiro/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapinheiro&layout=compact)](https://github.com/vitoriapinheiro/github-readme-stats)
 
