@@ -25,6 +25,7 @@ I'm Vitória, a computer engineering student at CIn-UFPE.
 [<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/vitoria_pinheiro_s/) 
 [<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vps3@cin.ufpe.br)
 
+![Snake animation](https://github.com/vitoriapinheiro/vitoriapinheiro/blob/output/github-contribution-grid-snake.svg)
 <!--
 **vitoriapinheiro/vitoriapinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
