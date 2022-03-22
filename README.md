@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Vitória, a Apple Developer Academy Student 🍎 and computer engineering student at CIn-UFPE 🤖.
+I'm Vitória, a Apple Developer Academy Student 🍎 and computer engineering student 🤖 at CIn-UFPE.
 
 ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
 
