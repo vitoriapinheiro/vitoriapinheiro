@@ -1,6 +1,5 @@
-### Hello there 👋
-
-I'm Vitória, a Apple Developer Academy Student 🍎 and computer engineering student 🤖 at CIn-UFPE.
+<h1 align="center">Hello, I'm Vitória Pinheiro ✨</h1>
+<h3 align="center">A curious developer from Brazil</h3>
 
 ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
 
