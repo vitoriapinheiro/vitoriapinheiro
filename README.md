@@ -3,7 +3,7 @@
 
 ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
 
-## Progamming languages
+## Programming languages
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
