@@ -2,6 +2,7 @@
 <h3 align="center">A software developer from Brazil</h3>
 
 ![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapinheiro&layout=compact&theme=radical)
 
 ## Programming languages
 
@@ -20,9 +21,11 @@
 
 ## Contact me
 
-[<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/vitoria-pinheiro/) 
-[<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/vitoria_pinheiro_s/) 
-[<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vps3@cin.ufpe.br)
+<div> 
+  <a href = "mailto:contatovps3@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitoria-pinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ![Snake animation](https://github.com/vitoriapinheiro/vitoriapinheiro/blob/output/github-contribution-grid-snake.svg)
 <!--
