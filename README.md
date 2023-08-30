@@ -1,9 +1,6 @@
 <h1 align="center">Hello, I'm Vitória Pinheiro ✨</h1>
 <h3 align="center">A software developer from Brazil</h3>
 
-![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriapinheiro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriapinheiro&layout=compact&theme=radical)
-
 ## Programming languages
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
